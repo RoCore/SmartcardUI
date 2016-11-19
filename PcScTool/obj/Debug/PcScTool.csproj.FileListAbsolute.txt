@@ -1,0 +1,32 @@
+c:\users\mkdpr\documents\visual studio 2015\Projects\PcScTool\PcScTool\bin\Debug\PcScTool.exe.config
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\bin\Debug\PcScTool.exe
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\bin\Debug\PcScTool.pdb
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\bin\Debug\pcsc-sharp.dll
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\bin\Debug\pcsc-sharp.xml
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\obj\Debug\PcScTool.csprojResolveAssemblyReference.cache
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\obj\Debug\MainWindow.g.cs
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\obj\Debug\App.g.cs
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\obj\Debug\PcScTool_MarkupCompile.cache
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\obj\Debug\PcScTool_MarkupCompile.lref
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\obj\Debug\MainWindow.baml
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\obj\Debug\PcScTool.g.resources
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\obj\Debug\PcScTool.Properties.Resources.resources
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\obj\Debug\PcScTool.csproj.GenerateResource.Cache
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\obj\Debug\PcScTool.exe
+C:\Users\mkdpr\Documents\Visual Studio 2015\Projects\PcScTool\PcScTool\obj\Debug\PcScTool.pdb
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\bin\Debug\PcScTool.exe.config
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\obj\Debug\PcScTool.exe
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\obj\Debug\PcScTool.pdb
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\bin\Debug\PcScTool.exe
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\bin\Debug\PcScTool.pdb
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\bin\Debug\pcsc-sharp.dll
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\bin\Debug\pcsc-sharp.xml
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\obj\Debug\PcScTool.csprojResolveAssemblyReference.cache
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\obj\Debug\MainWindow.g.cs
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\obj\Debug\App.g.cs
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\obj\Debug\PcScTool_MarkupCompile.cache
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\obj\Debug\PcScTool_MarkupCompile.lref
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\obj\Debug\MainWindow.baml
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\obj\Debug\PcScTool.g.resources
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\obj\Debug\PcScTool.Properties.Resources.resources
+D:\VSOnline\GIT\SmartCardUI\SmartcardUI\PcScTool\obj\Debug\PcScTool.csproj.GenerateResource.Cache
