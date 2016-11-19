@@ -3,3 +3,6 @@
 ################################################################################
 
 /PcScTool/bin/Release
+/.vs/PcScTool/v14/.suo
+/PcScTool/obj/Release
+/PcScTool/PcScTool.csproj.user
